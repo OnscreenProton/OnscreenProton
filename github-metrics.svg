@@ -1209,7 +1209,7 @@
           </h2>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-            79 Commits
+            80 Commits
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
@@ -1326,10 +1326,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="326.3211412507103" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="326.3211412507103" y="0" width="95.30998594371505" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="421.63112719442535" y="0" width="22.57558991536322" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="444.2067171097886" y="0" width="15.793282890211442" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="337.3485035864457" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="337.3485035864457" y="0" width="82.9860252287905" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="420.3345288152362" y="0" width="23.338486272569874" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="443.67301508780605" y="0" width="16.326984912193915" height="8" fill="#701516"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1549,7 +1549,7 @@ no
                                   
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"/></svg>
                                   
-                                  Episode 7
+                                  Episode 8
                                 </div>
                                         </div>
                                         <div class="infos">
@@ -1577,7 +1577,7 @@ Enter Monkey D. Luffy, a 17-year-old boy that defies your standard definition of
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated Thu, 17 Jun 2021 07:16:50 (timezone UTC) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Thu, 17 Jun 2021 08:14:21 (timezone UTC) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
