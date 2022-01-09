@@ -319,7 +319,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>golang/go</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Go programming language</div>
@@ -372,7 +372,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>traefik/traefik</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Cloud Native Application Proxy</div>
@@ -425,7 +425,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CleverRaven/Cataclysm-DDA</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.</div>
@@ -478,7 +478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NixOS/nix</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Nix, the purely functional package manager</div>
@@ -512,7 +512,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        3.48k
+                                        3.49k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -675,7 +675,7 @@
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                     <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"/>
                                                 </svg>
-                                                Episode 531
+                                                Episode 533
                                             </div>
                                         </div>
                                         <div class="infos">
@@ -703,7 +703,7 @@ Enter Monkey D. Luffy, a 17-year-old boy that defies your standard definition of
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jan 2022, 08:16:46 (timezone UTC) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 9 Jan 2022, 09:13:44 (timezone UTC) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
