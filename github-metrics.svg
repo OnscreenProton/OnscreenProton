@@ -320,7 +320,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>void-linux/void-packages</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Void source packages collection</div>
@@ -373,7 +373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SerenityOS/serenity</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Serenity Operating System 🐞</div>
@@ -426,7 +426,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>openwrt/packages</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md</div>
@@ -691,7 +691,7 @@ Enter Monkey D. Luffy, a 17-year-old boy that defies your standard definition of
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Mar 2022, 01:02:11 (timezone UTC) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 27 Mar 2022, 02:43:19 (timezone UTC) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
