@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>YoRyan/mailrise</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An SMTP gateway for Apprise notifications.</div>
@@ -420,7 +420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>caronc/apprise</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Apprise - Push Notifications that work with just about every platform!</div>
@@ -779,7 +779,7 @@ What are the Mushi and what do they want?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Apr 2023, 22:10:50 (timezone UTC) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 22 Apr 2023, 23:11:29 (timezone UTC) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
