@@ -320,7 +320,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mastodon/mastodon</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Your self-hosted, globally interconnected microblogging community</div>
@@ -373,7 +373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>badele/nix-homelab</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Homelab and dotfiles made with NixOS</div>
@@ -426,7 +426,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>serge-chat/serge</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.</div>
@@ -617,14 +617,14 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"/>
                             </svg>
-                            API error: 500 (Internal Server Error)
+                            API error: 403
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Dec 2023, 15:12:41 (timezone UTC) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Dec 2023, 16:14:20 (timezone UTC) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
