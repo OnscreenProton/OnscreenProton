@@ -320,7 +320,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mastodon/mastodon</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Your self-hosted, globally interconnected microblogging community</div>
@@ -373,7 +373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>badele/nix-homelab</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Homelab and dotfiles made with NixOS</div>
@@ -426,7 +426,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>serge-chat/serge</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.</div>
@@ -624,7 +624,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Dec 2023, 16:14:20 (timezone UTC) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Dec 2023, 17:09:29 (timezone UTC) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
