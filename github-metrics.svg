@@ -320,7 +320,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nasa/openmct</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A web based mission control framework.</div>
@@ -373,7 +373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mozilla/platform-tilt</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tracking issues which disadvantage Firefox relative to first-party browsers on major software platforms.</div>
@@ -612,7 +612,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jan 2024, 16:14:37 (timezone UTC) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Jan 2024, 17:11:00 (timezone UTC) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
