@@ -320,7 +320,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>siyuan-note/siyuan</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.</div>
@@ -373,7 +373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kmaasrud/awesome-obsidian</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🕶️ Awesome stuff for Obsidian</div>
@@ -426,7 +426,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>denolehov/obsidian-git</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Backup your Obsidian.md vault with git</div>
@@ -479,7 +479,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>coder/coder</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Provision remote development environments via Terraform</div>
@@ -624,7 +624,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jan 2024, 14:10:32 (timezone UTC) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Jan 2024, 15:10:26 (timezone UTC) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
