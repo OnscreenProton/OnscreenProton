@@ -320,7 +320,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PKU-YuanGroup/MoE-LLaVA</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mixture-of-Experts for Large Vision-Language Models</div>
@@ -373,7 +373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rancher/rancher</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Complete container management platform</div>
@@ -426,7 +426,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>b4rtaz/distributed-llama</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run LLMs on weak devices or make powerful devices even more powerful by distributing the workload and dividing the RAM usage.</div>
@@ -479,7 +479,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lo-cafe/winston</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A beautiful and native Reddit client for iOS</div>
@@ -624,7 +624,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Feb 2024, 22:10:33 (timezone UTC) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Feb 2024, 23:11:25 (timezone UTC) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
