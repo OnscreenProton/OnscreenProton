@@ -320,7 +320,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Anarios/return-youtube-dislike</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Chrome extension to return youtube dislikes</div>
@@ -373,7 +373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>surge-synthesizer/surge</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Synthesizer plug-in (previously released as Vember Audio Surge)</div>
@@ -426,7 +426,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Phazorknight/Cogito</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Immersive Sim Template Project for GODOT 4</div>
@@ -479,7 +479,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bevyengine/bevy</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A refreshingly simple data-driven game engine built in Rust</div>
@@ -624,7 +624,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Feb 2024, 08:15:16 (timezone UTC) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Feb 2024, 09:12:08 (timezone UTC) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
