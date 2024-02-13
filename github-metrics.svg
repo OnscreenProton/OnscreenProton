@@ -320,7 +320,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mumble-voip/mumble</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mumble is an open-source, low-latency, high quality voice chat software.</div>
@@ -373,7 +373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>muesli/duf</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Disk Usage/Free Utility - a better 'df' alternative</div>
@@ -426,7 +426,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>QuintenQVD0/Q_eggs</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Some special https://pterodactyl.io eggs made for ARM64</div>
@@ -479,7 +479,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>enso-org/enso</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Hybrid visual and textual functional programming.</div>
@@ -624,7 +624,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Feb 2024, 11:12:24 (timezone UTC) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Feb 2024, 12:20:28 (timezone UTC) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
