@@ -320,7 +320,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aristocratos/btop</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A monitor of resources</div>
@@ -373,7 +373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>relagit/relagit</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The elegant solution to graphical version control.</div>
@@ -426,7 +426,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mumble-voip/mumble</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mumble is an open-source, low-latency, high quality voice chat software.</div>
@@ -479,7 +479,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>muesli/duf</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Disk Usage/Free Utility - a better 'df' alternative</div>
@@ -624,7 +624,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Feb 2024, 04:14:50 (timezone UTC) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Feb 2024, 05:12:21 (timezone UTC) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
