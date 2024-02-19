@@ -320,7 +320,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>firefly-iii/firefly-iii</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Firefly III: a personal finances manager</div>
@@ -373,7 +373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hiddify/hiddify-next</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.</div>
@@ -624,7 +624,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Feb 2024, 22:11:57 (timezone UTC) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Feb 2024, 23:11:29 (timezone UTC) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
