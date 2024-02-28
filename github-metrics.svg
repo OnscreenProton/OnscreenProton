@@ -320,7 +320,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PlayPro/CoreProtect</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CoreProtect is a blazing fast data logging and anti-griefing tool for Minecraft servers.</div>
@@ -474,7 +474,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jesseduffield/lazydocker</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The lazier way to manage everything docker</div>
@@ -619,7 +619,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Feb 2024, 04:14:51 (timezone UTC) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Feb 2024, 05:12:44 (timezone UTC) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
