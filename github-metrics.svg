@@ -320,7 +320,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Speykious/cve-rs</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀</div>
@@ -373,7 +373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apernet/OpenGFW</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux</div>
@@ -426,7 +426,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PlayPro/CoreProtect</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CoreProtect is a blazing fast data logging and anti-griefing tool for Minecraft servers.</div>
@@ -624,7 +624,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Feb 2024, 17:11:19 (timezone UTC) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Feb 2024, 18:14:48 (timezone UTC) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
