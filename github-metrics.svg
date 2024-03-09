@@ -320,7 +320,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ggerganov/whisper.cpp</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Port of OpenAI's Whisper model in C/C++</div>
@@ -373,7 +373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GhostNaN/whisper-subs</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">WhisperSubs is a mpv lua script to generate subtitles at runtime with whisper.cpp on Linux</div>
@@ -624,7 +624,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Mar 2024, 12:18:50 (timezone UTC) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Mar 2024, 13:11:36 (timezone UTC) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
