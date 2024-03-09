@@ -320,7 +320,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ggerganov/whisper.cpp</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Port of OpenAI's Whisper model in C/C++</div>
@@ -373,7 +373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GhostNaN/whisper-subs</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">WhisperSubs is a mpv lua script to generate subtitles at runtime with whisper.cpp on Linux</div>
@@ -426,7 +426,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Ajatt-Tools/mpvacious</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Adds mpv keybindings to create Anki cards from movies and TV shows.</div>
@@ -479,7 +479,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yuzu-mirror/yuzu</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Nintendo Switch emulator (unofficial mirror fork)</div>
@@ -624,7 +624,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Mar 2024, 19:08:54 (timezone UTC) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Mar 2024, 20:11:21 (timezone UTC) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
