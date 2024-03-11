@@ -320,7 +320,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MauriceNino/dashdot</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple, modern server dashboard, primarily used by smaller private servers</div>
@@ -373,7 +373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>binwiederhier/ntfy</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Send push notifications to your phone or desktop using PUT/POST</div>
@@ -426,7 +426,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mjl-/mox</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">modern full-featured open source secure mail server for low-maintenance self-hosted email</div>
@@ -479,7 +479,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>potatoqualitee/eol-dr</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A crowd-sourced guide to help techs help their non-tech spouses / partners / parents / kids when we are at the end-of-life</div>
@@ -612,7 +612,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Mar 2024, 05:12:47 (timezone UTC) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Mar 2024, 06:15:34 (timezone UTC) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
