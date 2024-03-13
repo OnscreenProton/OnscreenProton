@@ -320,7 +320,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>siderolabs/talos</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Talos Linux is a modern Linux distribution built for Kubernetes.</div>
@@ -373,7 +373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>librespeed/speedtest</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more</div>
@@ -479,7 +479,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lra/mackup</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Keep your application settings in sync (OS X/Linux)</div>
@@ -629,7 +629,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Mar 2024, 08:14:32 (timezone UTC) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Mar 2024, 09:12:55 (timezone UTC) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
