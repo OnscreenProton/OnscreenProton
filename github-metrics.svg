@@ -320,7 +320,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>librespeed/speedtest</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more</div>
@@ -373,7 +373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Stirling-Tools/Stirling-PDF</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">locally hosted web application that allows you to perform various operations on PDF files</div>
@@ -628,7 +628,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Mar 2024, 03:14:08 (timezone UTC) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Mar 2024, 04:14:02 (timezone UTC) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
