@@ -320,7 +320,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>owncast/owncast</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Take control over your live stream video by running it yourself.  Streaming + chat out of the box.</div>
@@ -373,7 +373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Zettlr/Zettlr</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Your One-Stop Publication Workbench</div>
@@ -426,7 +426,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>v2fly/docker</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">docker build repo for v2fly</div>
@@ -479,7 +479,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>qvacua/vimr</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">VimR — Neovim GUI for macOS in Swift</div>
@@ -624,7 +624,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Mar 2024, 05:13:16 (timezone UTC) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Mar 2024, 06:14:20 (timezone UTC) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
