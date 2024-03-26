@@ -320,7 +320,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>The-Powder-Toy/The-Powder-Toy</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Written in C++ and using SDL, The Powder Toy is a desktop version of the classic 'falling sand' physics sandbox, it simulates air pressure and velocity as well as heat.</div>
@@ -373,7 +373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>supertuxkart/stk-code</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The code base of supertuxkart</div>
@@ -426,7 +426,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SuperTux/supertux</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SuperTux source code</div>
@@ -479,7 +479,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>OpenRA/OpenRA</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open Source real-time strategy game engine for early Westwood games such as Command &amp; Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.</div>
@@ -624,7 +624,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Mar 2024, 13:13:00 (timezone UTC) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Mar 2024, 14:13:17 (timezone UTC) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
