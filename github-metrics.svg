@@ -320,7 +320,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mkiol/dsnote</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Speech Note Linux app. Note taking, reading and translating with offline Speech to Text, Text to Speech and Machine translation.</div>
@@ -373,7 +373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>git-up/GitUp</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Git interface you've been missing all your life has finally arrived.</div>
@@ -426,7 +426,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jonas/tig</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Text-mode interface for git</div>
@@ -479,7 +479,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nextcloud/all-in-one</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.</div>
@@ -624,7 +624,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Mar 2024, 04:13:29 (timezone UTC) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Mar 2024, 05:13:46 (timezone UTC) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
