@@ -320,7 +320,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>logseq/logseq</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap</div>
@@ -647,7 +647,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Apr 2024, 15:13:02 (timezone UTC) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Apr 2024, 16:12:55 (timezone UTC) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
