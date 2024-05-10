@@ -320,7 +320,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>undergroundwires/privacy.sexy</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open-source tool to enforce privacy &amp; security best-practices on Windows, macOS and Linux, because privacy is sexy</div>
@@ -426,7 +426,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>itzg/mc-router</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Routes Minecraft client connections to backend servers based upon the requested server address</div>
@@ -624,7 +624,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 May 2024, 04:14:48 (timezone UTC) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 May 2024, 05:12:20 (timezone UTC) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
