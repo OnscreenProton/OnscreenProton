@@ -320,7 +320,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rubiojr/awesome-restic</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Awesome Restic related projects</div>
@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>garethgeorge/backrest</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Backrest is a web UI and orchestrator for restic backup.</div>
@@ -606,7 +606,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jun 2024, 22:12:33 (timezone UTC) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Jun 2024, 23:14:19 (timezone UTC) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
