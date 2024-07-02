@@ -320,7 +320,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cupcakearmy/autorestic</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Config driven, easy backup cli for restic.</div>
@@ -373,7 +373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stashed/stash</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🛅 Backup your Kubernetes Stateful Applications</div>
@@ -426,7 +426,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>restic/restic</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast, secure, efficient backup program</div>
@@ -479,7 +479,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>coderman64/netsurf-3ds</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">homebrew web browser port for the Nintendo 3DS</div>
@@ -618,7 +618,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Jul 2024, 07:13:47 (timezone UTC) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Jul 2024, 08:17:08 (timezone UTC) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
