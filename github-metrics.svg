@@ -320,7 +320,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>coderman64/netsurf-3ds</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">homebrew web browser port for the Nintendo 3DS</div>
@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>YaLTeR/niri</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A scrollable-tiling Wayland compositor.</div>
@@ -420,7 +420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hajimehoshi/ebiten</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ebitengine - A dead simple 2D game engine for Go</div>
@@ -473,7 +473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>anyproto/any-sync-dockercompose</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">docker-compose for testing any-sync</div>
@@ -618,7 +618,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Jul 2024, 02:04:29 (timezone UTC) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Jul 2024, 03:14:48 (timezone UTC) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
