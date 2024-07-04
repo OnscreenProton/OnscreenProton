@@ -320,7 +320,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>anyproto/any-sync</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open-source protocol designed to create high-performance, local-first, peer-to-peer, end-to-end encrypted applications that facilitate seamless collaboration among multiple users and devices</div>
@@ -373,7 +373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cupcakearmy/autorestic</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Config driven, easy backup cli for restic.</div>
@@ -426,7 +426,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stashed/stash</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🛅 Backup your Kubernetes Stateful Applications</div>
@@ -479,7 +479,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>restic/restic</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast, secure, efficient backup program</div>
@@ -624,7 +624,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jul 2024, 03:16:21 (timezone UTC) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jul 2024, 04:15:49 (timezone UTC) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
