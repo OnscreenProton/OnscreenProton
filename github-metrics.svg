@@ -320,7 +320,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rustic-rs/rustic</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">rustic - fast, encrypted, and deduplicated backups powered by Rust</div>
@@ -373,7 +373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BertPlasschaert/TOTEM-Tenting</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TOTEM is a 38 keys column-staggered split keyboard. It meant to be used with a SEEED XIAO BLE or RP2040. Now with a tenting compatible bottom case</div>
@@ -618,7 +618,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jul 2024, 18:16:25 (timezone UTC) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Jul 2024, 19:11:17 (timezone UTC) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
