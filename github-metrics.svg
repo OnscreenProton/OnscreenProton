@@ -320,7 +320,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>prowler-cloud/prowler</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Prowler is an Open Source Security tool for AWS, Azure, GCP and Kubernetes to do security assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, GXP, Well-Architected Security, ENS and more</div>
@@ -373,7 +373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AYM1607/swept-crkbd</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">swept corne - a small promicro based keyboard inspired by the Ferris, the Sweep and the Corne</div>
@@ -600,7 +600,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jul 2024, 17:12:54 (timezone UTC) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Jul 2024, 18:18:51 (timezone UTC) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
