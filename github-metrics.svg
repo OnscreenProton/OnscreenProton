@@ -373,7 +373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>doorhinge-apps/Aura-Browser</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Aura is an open source alternative for Arc browser. It has support for iOS, iPadOS, macOS, and VisionOS.</div>
@@ -426,7 +426,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hoarder-app/hoarder</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search</div>
@@ -627,7 +627,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jul 2024, 06:17:20 (timezone UTC) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Jul 2024, 07:11:39 (timezone UTC) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
