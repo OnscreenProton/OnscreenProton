@@ -320,7 +320,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nelhage/reptyr</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Reparent a running program to a new terminal</div>
@@ -373,7 +373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Jamesits/pve-fake-subscription</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Disables the "No valid subscription" dialog on all Proxmox products.</div>
@@ -426,7 +426,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lix-project/lix</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">[MIRROR, PRs ok! Issues: https://git.lix.systems/lix-project/lix/issues] A modern, delicious implementation of the Nix package manager, focused on correctness, usability, and growth — and committed to doing right by its community</div>
@@ -624,7 +624,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jul 2024, 11:10:27 (timezone UTC) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Jul 2024, 12:23:34 (timezone UTC) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
