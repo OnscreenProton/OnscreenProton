@@ -313,7 +313,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>OpenBMB/MiniCPM-V</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MiniCPM-V 2.6: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone</div>
@@ -366,7 +366,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ProjectPhysX/FluidX3D</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs via OpenCL. Free for non-commercial use.</div>
@@ -419,7 +419,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Haxxnet/Compose-Examples</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Various Docker Compose examples of selfhosted FOSS and proprietary projects.</div>
@@ -460,7 +460,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yokoffing/Betterfox</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Firefox user.js for speed, privacy, and security. Your favorite browser, but better.</div>
@@ -623,7 +623,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Aug 2024, 14:13:07 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Aug 2024, 15:13:00 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
