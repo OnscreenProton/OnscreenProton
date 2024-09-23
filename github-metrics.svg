@@ -313,7 +313,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mcmilk/7-Zip-zstd</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard</div>
@@ -366,7 +366,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pwmarcz/autotable</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An online mahjong table</div>
@@ -419,7 +419,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>creativeprojects/resticprofile</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Configuration profiles manager and scheduler for restic backup</div>
@@ -635,7 +635,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Sept 2024, 14:14:06 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Sept 2024, 15:14:50 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
