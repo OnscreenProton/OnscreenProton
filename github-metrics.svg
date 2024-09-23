@@ -313,7 +313,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pwmarcz/autotable</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An online mahjong table</div>
@@ -366,7 +366,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>creativeprojects/resticprofile</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Configuration profiles manager and scheduler for restic backup</div>
@@ -472,7 +472,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>superseriousbusiness/gotosocial</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast, fun, small ActivityPub server.</div>
@@ -635,7 +635,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Sept 2024, 07:14:23 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Sept 2024, 08:16:13 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
