@@ -313,7 +313,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>abrenaut/posio</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A multiplayer geography game using Websockets</div>
@@ -366,7 +366,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>EdenEast/nightfox.nvim</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.</div>
@@ -419,7 +419,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nyoom-engineering/oxocarbon.nvim</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A dark and light Neovim theme written in fennel, inspired by IBM Carbon.</div>
@@ -472,7 +472,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nyoom-engineering/nyoom.nvim</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme</div>
@@ -635,7 +635,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Sept 2024, 09:19:08 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Sept 2024, 10:13:45 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
