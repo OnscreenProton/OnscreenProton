@@ -313,7 +313,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Open-Wine-Components/umu-launcher</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>anchore/grype</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A vulnerability scanner for container images and filesystems</div>
@@ -420,7 +420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>anchore/syft</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CLI tool and library for generating a Software Bill of Materials from container images and filesystems</div>
@@ -639,7 +639,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Oct 2024, 19:52:35 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Oct 2024, 20:23:07 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
