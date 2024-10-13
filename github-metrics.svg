@@ -313,7 +313,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jeroen94704/klepcbgen</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Generates a KiCAD schematic and PCB layout using a Keyboard Layout Editor json file as input</div>
@@ -366,7 +366,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>webmin/webmin</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Powerful and flexible web-based server management control panel</div>
@@ -635,7 +635,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Oct 2024, 19:51:56 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Oct 2024, 20:22:33 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
