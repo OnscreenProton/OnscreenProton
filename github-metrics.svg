@@ -313,7 +313,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nostr-protocol/nostr</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a truly censorship-resistant alternative to Twitter that has a chance of working</div>
@@ -354,7 +354,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pier-oliviert/phonebook</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Manage DNS Records with Kubernetes</div>
@@ -448,7 +448,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>derailed/k9s</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🐶 Kubernetes CLI To Manage Your Clusters In Style!</div>
@@ -611,7 +611,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Oct 2024, 09:19:12 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Oct 2024, 10:13:36 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
