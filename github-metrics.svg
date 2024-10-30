@@ -313,7 +313,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tteck/Proxmox</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Proxmox VE Helper-Scripts</div>
@@ -366,7 +366,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>atlas-engineer/nyxt</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Nyxt - the hacker's browser.</div>
@@ -413,7 +413,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lem-project/lem</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Common Lisp editor/IDE with high expansibility</div>
@@ -623,7 +623,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Oct 2024, 19:49:53 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Oct 2024, 20:22:01 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
