@@ -422,7 +422,7 @@
                                         <span>starred 12 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">The most advanced Minecraft game engine built in Rust.</div>
+                                <div class="field description">170,000 player capable Minecraft game engine built in Rust.</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -609,7 +609,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Nov 2024, 20:18:55 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Nov 2024, 21:14:55 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
