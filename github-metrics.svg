@@ -220,7 +220,7 @@
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="306.1561400715123" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="306.1561400715123" y="0" width="39.00450932989766" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="306.1561400715123" y="0" width="39.00450932989766" height="8" fill="#663399"/>
                     <rect mask="url(#languages-bar)" x="345.16064940140996" y="0" width="37.5178780816167" height="8" fill="#7e7eff"/>
                     <rect mask="url(#languages-bar)" x="382.67852748302664" y="0" width="31.639608274584173" height="8" fill="#77aa99"/>
                     <rect mask="url(#languages-bar)" x="414.3181357576109" y="0" width="21.528684549573676" height="8" fill="#89e051"/>
@@ -237,7 +237,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         CSS
                     </div>
@@ -313,7 +313,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mark-when/markwhen</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.</div>
@@ -334,7 +334,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        4k
+                                        4.01k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -366,7 +366,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>elk-zone/elk</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A nimble Mastodon web client</div>
@@ -419,7 +419,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>boehs/site</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔭 My cozy corner in the wide expanse of the internet</div>
@@ -635,7 +635,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Dec 2024, 04:32:11 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Dec 2024, 05:26:29 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
