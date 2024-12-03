@@ -313,7 +313,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mark-when/markwhen</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.</div>
@@ -366,7 +366,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>elk-zone/elk</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A nimble Mastodon web client</div>
@@ -419,7 +419,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>boehs/site</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔭 My cozy corner in the wide expanse of the internet</div>
@@ -635,7 +635,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Dec 2024, 01:17:38 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Dec 2024, 02:18:21 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
