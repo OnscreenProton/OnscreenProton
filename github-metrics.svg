@@ -313,7 +313,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>metabrainz/musicbrainz-server</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Server for the MusicBrainz project (website, API, database tools)</div>
@@ -366,7 +366,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tursodatabase/limbo</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.</div>
@@ -635,7 +635,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Dec 2024, 10:20:12 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Dec 2024, 11:12:21 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
