@@ -313,7 +313,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>umfieldrobotics/OceanSim</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OceanSim: A GPU-Accelerated Underwater Robot Perception Simulation Framework [Preprint]</div>
@@ -366,7 +366,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FiloSottile/age</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.</div>
@@ -657,7 +657,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Apr 2025, 07:13:59 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Apr 2025, 08:14:53 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
