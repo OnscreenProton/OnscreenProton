@@ -313,7 +313,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bearcove/home</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A cozy CMS that powers https://fasterthanli.me and others</div>
@@ -360,7 +360,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facet-rs/facet</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust reflection, serialization, deserialization, pretty printing, etc. — the last proc macro you should need</div>
@@ -413,7 +413,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pad-ws/pad.ws</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Whiteboard as an IDE, draw and code in your browser</div>
@@ -466,7 +466,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>clockworklabs/SpacetimeDB</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Multiplayer at the speed of light</div>
@@ -650,7 +650,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Apr 2025, 06:22:04 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Apr 2025, 07:14:07 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
