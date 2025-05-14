@@ -419,7 +419,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bearcove/home</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A cozy CMS that powers https://fasterthanli.me and others</div>
@@ -466,7 +466,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facet-rs/facet</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust reflection, serialization, deserialization, pretty printing, etc. — the last proc macro you should need</div>
@@ -650,7 +650,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 May 2025, 06:28:53 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 May 2025, 07:17:38 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
