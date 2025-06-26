@@ -313,7 +313,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HabitRPG/habitica</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A habit tracker app which treats your goals like a Role Playing Game.</div>
@@ -366,7 +366,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mholt/caddy-l4</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Layer 4 (TCP/UDP) app for Caddy</div>
@@ -635,7 +635,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jun 2025, 10:16:10 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Jun 2025, 11:25:24 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
