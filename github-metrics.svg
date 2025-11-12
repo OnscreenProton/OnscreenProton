@@ -313,7 +313,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sheshbabu/zen</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Selfhosted notes app. Single golang binary, notes stored as markdown within SQLite, full-text search, very low resource usage</div>
@@ -366,7 +366,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TeamHypersomnia/Hypersomnia</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Multiplayer top-down shooter made from scratch in C++. Play in your Browser! https://hypersomnia.io Made in 🇵🇱</div>
@@ -596,7 +596,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Nov 2025, 07:20:02 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Nov 2025, 08:23:51 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
