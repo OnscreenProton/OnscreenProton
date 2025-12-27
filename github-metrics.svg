@@ -419,7 +419,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bitwarden/clients</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Bitwarden client apps (web, browser extension, desktop, and cli).</div>
@@ -472,7 +472,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ckabalan/bitwarden-attachment-exporter</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Exports Bitwarden Attachments Based on Export File</div>
@@ -622,7 +622,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Dec 2025, 13:16:00 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Dec 2025, 14:17:29 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
