@@ -313,7 +313,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chilli-axe/mpc-autofill</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Print automation software (leveraging MakePlayingCards) for your tabletop gaming community</div>
@@ -366,7 +366,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kclipsto/proxies-at-home</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Proxxied is an at home MTG Proxy printing service. Add cards, reorganize, and export to PDF.</div>
@@ -466,7 +466,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pommee/goaway</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lightweight DNS sinkhole written in Go with a modern dashboard client</div>
@@ -590,7 +590,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Jan 2026, 21:19:25 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Jan 2026, 22:28:11 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
