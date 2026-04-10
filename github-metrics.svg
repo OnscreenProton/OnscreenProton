@@ -313,7 +313,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kimdre/doco-cd</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Docker Compose Continuous Deployment</div>
@@ -472,7 +472,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TheDuffman85/crowdsec-web-ui</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A modern, responsive web interface for managing CrowdSec alerts and decisions.</div>
@@ -635,7 +635,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Apr 2026, 08:51:04 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Apr 2026, 09:48:55 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
